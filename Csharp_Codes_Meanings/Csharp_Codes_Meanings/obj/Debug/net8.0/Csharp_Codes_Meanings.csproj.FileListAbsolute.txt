@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\Csharp_Codes_Meanings\Csharp_Codes_Meanings\obj\Debug\net8.0\Csharp_Codes_Meanings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Csharp_Codes_Meanings\Csharp_Codes_Meanings\obj\Debug\net8.0\Csharp_Codes_Meanings.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Csharp_Codes_Meanings\Csharp_Codes_Meanings\obj\Debug\net8.0\Csharp_Codes_Meanings.AssemblyInfo.cs
+C:\Users\PC\source\repos\Csharp_Codes_Meanings\Csharp_Codes_Meanings\obj\Debug\net8.0\Csharp_Codes_Meanings.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Csharp_Codes_Meanings\Csharp_Codes_Meanings\bin\Debug\net8.0\Csharp_Codes_Meanings.exe
+C:\Users\PC\source\repos\Csharp_Codes_Meanings\Csharp_Codes_Meanings\bin\Debug\net8.0\Csharp_Codes_Meanings.deps.json
+C:\Users\PC\source\repos\Csharp_Codes_Meanings\Csharp_Codes_Meanings\bin\Debug\net8.0\Csharp_Codes_Meanings.runtimeconfig.json
+C:\Users\PC\source\repos\Csharp_Codes_Meanings\Csharp_Codes_Meanings\bin\Debug\net8.0\Csharp_Codes_Meanings.dll
+C:\Users\PC\source\repos\Csharp_Codes_Meanings\Csharp_Codes_Meanings\bin\Debug\net8.0\Csharp_Codes_Meanings.pdb
+C:\Users\PC\source\repos\Csharp_Codes_Meanings\Csharp_Codes_Meanings\obj\Debug\net8.0\Csharp_Codes_Meanings.dll
+C:\Users\PC\source\repos\Csharp_Codes_Meanings\Csharp_Codes_Meanings\obj\Debug\net8.0\refint\Csharp_Codes_Meanings.dll
+C:\Users\PC\source\repos\Csharp_Codes_Meanings\Csharp_Codes_Meanings\obj\Debug\net8.0\Csharp_Codes_Meanings.pdb
+C:\Users\PC\source\repos\Csharp_Codes_Meanings\Csharp_Codes_Meanings\obj\Debug\net8.0\Csharp_Codes_Meanings.genruntimeconfig.cache
+C:\Users\PC\source\repos\Csharp_Codes_Meanings\Csharp_Codes_Meanings\obj\Debug\net8.0\ref\Csharp_Codes_Meanings.dll
